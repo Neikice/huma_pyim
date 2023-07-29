@@ -3,8 +3,8 @@
 - 根据虎码官方冰凌输入法的词库生成
 - 重排了单字和词的顺序，重码中单字永远在词的前面
 
-## 使用
-``` 
+## 使用 
+```elisp
 (use-package pyim
   :init
   (setq default-input-method "pyim")
